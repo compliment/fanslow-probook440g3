@@ -1,5 +1,5 @@
 [Unit]
-Description=Better fan control for HP ProBook 430 G2
+Description=Better fan control for HP ProBook 440 G3
 
 [Service]
 ExecStart=/usr/bin/fanslow
